@@ -24,7 +24,7 @@ ipython_config.py
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
 
 # Adding commands for data file
-**/.pkl
+*.pkl
 
 # Adding commands for weights
-**/.pth
+*.pth
