@@ -1,8 +1,5 @@
 # General
 .DS_Store
-.AppleDouble
-.LSOverride
-
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks
@@ -25,6 +22,8 @@ ipython_config.py
 
 # Adding commands for data file
 *.pkl
+Tweets/**/*.pkl
 
 # Adding commands for weights
 *.pth
+Tweets/**/*.pth
