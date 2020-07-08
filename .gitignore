@@ -27,3 +27,6 @@ Tweets/**/*.pkl
 # Adding commands for weights
 *.pth
 Tweets/**/*.pth
+
+# Adding commands to remove json file with twitter api details
+*.json
