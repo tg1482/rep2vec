@@ -4,7 +4,7 @@
 
 This project was designed to foster a community where we vote not based on opinions created by biased media, fake-news, and political bots, but from the very source - the words of the politicians themselves. Twitter has become an ubiquituous platform when it comes to expressing political opinion and addressing the general population. We've seen millenial politicians such as @AOC having 7 million followers online while global leaders threaten each other publicly and with no shame - it's remarkable what one can do with just 150 characters. 
 
-With Twitter being used as increasingly these days, courtesy of Covid-19 and 2020 Elections, it's obvious that the platform contains a lot of insights that would be relevant to one's decision making while voting in November. This project serves to be the spoon with which one takes in Twitter data.
+With Twitter being used increasingly these days, courtesy of Covid-19 and 2020 Elections, it's obvious that the platform contains a lot of insights that would be relevant to one's decision making while voting in November. This project serves to be the spoon with which one takes in Twitter data.
 
 ## Ideas
 
