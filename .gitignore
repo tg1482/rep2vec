@@ -31,4 +31,5 @@ Tweets/**/*.pth
 # Adding commands to remove json file with twitter api details
 *.json
 git rm -r .json
-.gdoc
+*.gdoc
+*.gsheet
