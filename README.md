@@ -35,9 +35,12 @@ With the vector representation of a particular political rep, we can then perfor
 For this, I used the weights of the second to last layer (last layer being the output, the prediction) and performed PCA on it. The idea was that, for each Politician's account, the parameters or weights that we multiply the output of the previous layers with, would be different. And here is what we finally got:
 
 **In 2 dimensions**
+
 ![alt text](images/pca_2d.png)
 
+
 **In 3 dimensions**
+
 ![alt text](images/pca_3d.png)
 
 Overall, with 2 dimensions, we could only capture about 40% of the total variance so the plot is not the best representation, but we can still see some pattern in terms of the politicians taking the left stage, being clustered together, while the news accounts like @AP and @CNN are together in the bottom right.
