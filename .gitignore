@@ -1,14 +1,7 @@
 # General
 .DS_Store
-
-# Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks
-# Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks
-
-### JupyterNotebooks ###
-# gitignore template for Jupyter Notebooks
-# website: http://jupyter.org/
-
-.ipynb_checkpoints
+__pycache__/
+.ipynb_checkpoints/
 */.ipynb_checkpoints/*
 
 # IPython
