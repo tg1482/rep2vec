@@ -1,4 +1,4 @@
-# Project-X
+# Rep2Vec
 
 ## Vision
 
@@ -28,7 +28,7 @@ It incorporates information such as:
 * Emojis used
 * Style of writing (capitalized letters, words, or sentences, etc.)
 
-Here is an example of a Tweet by Donald Trump - which the important `features` highlighted:
+Here is an example of a Tweet by Donald Trump - with the important "features" highlighted using `fastai` TextClassificationInterpretation class:
 ![alt text](images/trump_tweet.png)
 
 With the vector representation of a particular political rep, we can then perform some dimension reduction and plot them to see how they align with each other.
